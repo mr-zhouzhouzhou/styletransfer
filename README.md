@@ -1,9 +1,5 @@
 #styletransfer
 #图像风格融合与快速迁移
-
-Simple implementation of the paper "A Learned Representation for Artistic Style"<br>
-[A Learned Representation for Artistic Style.](http://cn.arxiv.org/pdf/1610.07629.pdf)
-
 ## Instruction
 ### 一、core文件夹
 ##### 项目核心代码<br>
