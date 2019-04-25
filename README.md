@@ -1,7 +1,6 @@
 #styletransfer
 #图像风格融合与快速迁移
-## Instruction
-### 一、core文件夹
+
 ##### 项目核心代码<br>
 generateds：生成tfrecords训练集<br>
 forward：前向传播过程，包括图像生成网络、损失函数网络和loss的计算<br>
@@ -44,7 +43,6 @@ $ python test.py
 4、生成图片存储在./core/results/文件夹中
 
 ## Run APP
-##### 目前仅对windows系统Edge浏览器做过全面测试，其他浏览器存在不同程度的不兼容性，之后会尽快完善
 ```
 $ python main.py
 ```
