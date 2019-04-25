@@ -70,4 +70,4 @@ $ sudo kill pid
 ```
 $ python main.py
 ```
- ![image](https://github.com/mr-zhouzhouzhou/styletransfer/img/79816200bc261c4abe08f43bf4d7768.png)
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/79816200bc261c4abe08f43bf4d7768.png)
