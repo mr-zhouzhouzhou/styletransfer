@@ -1,12 +1,8 @@
 #styletransfer
-图像风格融合与快速迁移
+#图像风格融合与快速迁移
 
 Simple implementation of the paper "A Learned Representation for Artistic Style"<br>
 [A Learned Representation for Artistic Style.](http://cn.arxiv.org/pdf/1610.07629.pdf)
-
-github地址：<br>
-https://github.com/7yChris/20_style-model-for-image-style-fusion-and-transfer.git <br>
-之后将会持续更新和完善
 
 ## Instruction
 ### 一、core文件夹
