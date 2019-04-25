@@ -54,7 +54,6 @@ $ python main.py
 ```
 1、在浏览器中打开host地址：127.0.0.1:5000<br>
 2、在网页上完成可视化操作<br>
-3、若提示"OSError: [Errno 48] Address already in use"，请按以下步骤处理：<br>
 ```
 $ sudo lsof -i:5000
 ```
