@@ -1,4 +1,4 @@
-# 20-Style Model for Image Style Fusion and Transfer
+#styletransfer
 图像风格融合与快速迁移
 
 Simple implementation of the paper "A Learned Representation for Artistic Style"<br>
@@ -70,3 +70,4 @@ $ sudo kill pid
 ```
 $ python main.py
 ```
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/img/79816200bc261c4abe08f43bf4d7768.png)
