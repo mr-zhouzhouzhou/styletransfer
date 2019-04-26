@@ -1,5 +1,6 @@
 #styletransfer
 #图像风格融合与快速迁移
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/79816200bc261c4abe08f43bf4d7768.png)
 
 ##### 项目核心代码<br>
 generateds：生成tfrecords训练集<br>
@@ -13,21 +14,27 @@ app：JS网页应用调用test的接口文件
 
 ## Prepare
 ##### 一、运行环境
-python3.6<br>
+python3.6.7
 ##### 二、下载coco数据集
 http://images.cocodataset.org/zips/train2014.zip <br>
 放在 ./core/MSCOCO/ 文件夹中<br>
 ##### 三、下载vgg16预训练模型
-百度网盘（链接来自网络）：https://pan.baidu.com/s/1gg9jLw3  密码:umce，<br>
+百度网盘：https://pan.baidu.com/s/1gg9jLw3  密码:umce，<br>
 放在 ./core/vggnet 文件夹中<br>
 ##### 四、制作coco数据集tfRecords
 ```
+#Linux
 $ python generateds.py
+#window
+generateds.py
 ```
 
 ## Training Model
 ```
+#Linux
 $ python backward.py
+#window
+backward.py
 ```
 1、提供断点续训功能<br>
 2、提供已经训练好的模型（5万轮），可在5万轮的基础上继续训练，也可删掉checkpoint从0开始训练<br>
@@ -38,25 +45,28 @@ $ python backward.py
 2、在test.py中，修改测试文件路径PATH_IMG<br>
 3、在test.py中，修改风格编号LABEL_1至LABEL_4
 ```
+#Linux
 $ python test.py
+#window
+test.py
 ```
 4、生成图片存储在./core/results/文件夹中
 
 ## Run APP
 ```
+#Linux
 $ python main.py
+#window
+main.py
 ```
 1、在浏览器中打开host地址：127.0.0.1:5000<br>
 2、在网页上完成可视化操作<br>
-```
-$ sudo lsof -i:5000
-```
-找到占用5000端口进程的PID编号，然后kill掉此进程
-```
-$ sudo kill pid
-```
+
+
 重新运行main.py
 ```
+#Linux
 $ python main.py
+#window
+main.py
 ```
- ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/79816200bc261c4abe08f43bf4d7768.png)
