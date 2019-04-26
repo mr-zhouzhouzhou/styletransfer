@@ -23,18 +23,18 @@ http://images.cocodataset.org/zips/train2014.zip <br>
 放在 ./core/vggnet 文件夹中<br>
 ##### 四、制作coco数据集tfRecords
 ```
-#Linux
-$ python generateds.py
-#window
-generateds.py
+Linux系统下：
+    $ python generateds.py
+Windows系统下：
+    执行generateds.py
 ```
 
 ## Training Model
 ```
-#Linux
-$ python backward.py
-#window
-backward.py
+Linux系统下：
+    $ python backward.py
+Windows系统下：
+    执行backward.py
 ```
 1、提供断点续训功能<br>
 2、提供已经训练好的模型（5万轮），可在5万轮的基础上继续训练，也可删掉checkpoint从0开始训练<br>
@@ -45,19 +45,19 @@ backward.py
 2、在test.py中，修改测试文件路径PATH_IMG<br>
 3、在test.py中，修改风格编号LABEL_1至LABEL_4
 ```
-#Linux
-$ python test.py
-#window
-test.py
+Linux系统下：
+    $ python test.py
+Windows系统下：
+    执行test.py
 ```
 4、生成图片存储在./core/results/文件夹中
 
 ## Run APP
 ```
-#Linux
-$ python main.py
-#window
-main.py
+Linux系统下：
+    $ python main.py
+Windows系统下：
+    执行main.py
 ```
 1、在浏览器中打开host地址：127.0.0.1:5000<br>
 2、在网页上完成可视化操作<br>
@@ -65,8 +65,8 @@ main.py
 
 重新运行main.py
 ```
-#Linux
-$ python main.py
-#window
-main.py
+Linux系统下：
+    $ python main.py
+Windows系统下：
+    执行main.py
 ```
