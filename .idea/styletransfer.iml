@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/img" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/model" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/MSCOCO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/results" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/save_training_imgs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/style_imgs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/test_imgs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/core/vggnet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/js" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/css" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/images" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/js" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/results" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/style" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.5 (Hello)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
