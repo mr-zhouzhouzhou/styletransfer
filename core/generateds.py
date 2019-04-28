@@ -5,7 +5,14 @@ import tensorflow as tf
 import numpy as np
 from PIL import Image
 import scipy.misc as misc
-
+#########################################################
+#将根目录加入sys.path中,解决命令行找不到包的问题
+import sys
+import os
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
+#########################################################
 flags = tf.flags
 flags.DEFINE_string('path_data', './data', 'tfRecord save path.')
 flags.DEFINE_string('path_style', "./style_imgs", 'Row style images path')

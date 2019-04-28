@@ -11,7 +11,14 @@ import scipy.misc as misc
 import argparse
 import time
 import os
-
+#########################################################
+#将根目录加入sys.path中,解决命令行找不到包的问题
+import sys
+import os
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
+#########################################################
 # 初始化各种参数
 parser = argparse.ArgumentParser()
 # 输入图像尺寸

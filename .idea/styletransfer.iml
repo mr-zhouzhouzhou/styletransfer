@@ -23,6 +23,7 @@
       <sourceFolder url="file://$MODULE_DIR$/static/js" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/static/results" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/static/style" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.5 (Hello)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

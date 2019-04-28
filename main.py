@@ -1,9 +1,17 @@
 from flask import Flask, jsonify, render_template, request
 from core import app as model
 import random
-import os
 import base64
 import argparse
+
+#########################################################
+#将根目录加入sys.path中,解决命令行找不到包的问题
+import sys
+import os
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
+#########################################################
 
 parser = argparse.ArgumentParser()  # 定义一个参数设置器
 # 固定参数

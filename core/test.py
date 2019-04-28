@@ -8,7 +8,14 @@ from forward import forward  # 导入前向网络模块
 import argparse  # 导入参数选择模块
 from generateds import center_crop_img
 import random
-
+#########################################################
+#将根目录加入sys.path中,解决命令行找不到包的问题
+import sys
+import os
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
+#########################################################
 # 设置参数
 parser = argparse.ArgumentParser()  # 定义一个参数设置器
 
