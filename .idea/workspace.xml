@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7326ce-3168-4e23-b7fa-844b78e6064c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/10000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1156.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/20000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/31000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/41000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/45000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/6000.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/styletransfer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/styletransfer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="336">
-                <caret line="18" column="80" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
+              <first_editor relative-caret-position="174">
+                <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
               </first_editor>
               <second_editor />
             </state>
@@ -191,8 +180,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="336">
-            <caret line="18" column="80" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
+          <first_editor relative-caret-position="174">
+            <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
           </first_editor>
           <second_editor />
         </state>
