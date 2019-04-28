@@ -33,7 +33,10 @@
  ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/4fffdca44807702c0328c2057e8826a.png)<br>
  7：相册
  ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/22c5fc7949726b5cb2cd196e6a6884f.png)<br>
-##### 项目核心代码<br>
+
+**结果展示**<br>
+![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/result25.jpg)<br>
+ **项目核心代码**<br>
 generateds：生成tfrecords训练集<br>
 forward：前向传播过程，包括图像生成网络、损失函数网络和loss的计算<br>
 backward：主要训练过程<br>
