@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7326ce-3168-4e23-b7fa-844b78e6064c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.0,0.0,0.0,1.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.0,0.0,0.25,0.75).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.0,0.0,0.5,0.5).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.0,0.0,0.75,0.25).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.0,0.0,1.0,0.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.0,0.25,0.0,0.75).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.0,0.5,0.0,0.5).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.0,0.75,0.0,0.25).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.0,1.0,0.0,0.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.06,0.19,0.19,0.56).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.12,0.12,0.38,0.38).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.12,0.38,0.12,0.38).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.19,0.06,0.56,0.19).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.19,0.56,0.06,0.19).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.25,0.0,0.75,0.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.25,0.25,0.25,0.25).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.25,0.75,0.0,0.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.38,0.12,0.38,0.12).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.38,0.38,0.12,0.12).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.5,0.0,0.5,0.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.5,0.5,0.0,0.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.56,0.19,0.19,0.06).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.75,0.0,0.25,0.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(0.75,0.25,0.0,0.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/picture_(6,7,11,12)_(1.0,0.0,0.0,0.0).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/results/result_255.200795255229541.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +16,9 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2807" />
+              <first_editor relative-caret-position="209">
+                <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -91,6 +68,17 @@
             <path>
               <item name="styletransfer" type="b2602c69:ProjectViewProjectNode" />
               <item name="styletransfer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="styletransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="styletransfer" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="styletransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="styletransfer" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="vggnet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="styletransfer" type="b2602c69:ProjectViewProjectNode" />
@@ -168,6 +156,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26023778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -235,7 +224,9 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2807" />
+          <first_editor relative-caret-position="209">
+            <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
