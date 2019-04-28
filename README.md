@@ -18,8 +18,21 @@
  #45000轮<br>
  ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/45000.jpg)<br>
  
- ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/79816200bc261c4abe08f43bf4d7768.png)
-
+ **app展示**
+1：项目的首页
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/79816200bc261c4abe08f43bf4d7768.png)<br>
+2：选择4种不同的风格
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/030a3982d446a76518c181971820914.png)<br>
+ 3：选择图片或者进行拍照
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/7475358d9e96425d5900009124271aa.png)<br>
+ 4：选择图片
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/27cfc33d68e417f54406839be0b2631.png)<br>
+ 5：加载
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/d898b88d583673a50280386365b8083.png)<br> 
+ 6：结果
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/4fffdca44807702c0328c2057e8826a.png)<br>
+ 7：相册
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/22c5fc7949726b5cb2cd196e6a6884f.png)<br>
 ##### 项目核心代码<br>
 generateds：生成tfrecords训练集<br>
 forward：前向传播过程，包括图像生成网络、损失函数网络和loss的计算<br>

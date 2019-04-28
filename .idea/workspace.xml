@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7326ce-3168-4e23-b7fa-844b78e6064c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/030a3982d446a76518c181971820914.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/22c5fc7949726b5cb2cd196e6a6884f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/27cfc33d68e417f54406839be0b2631.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4fffdca44807702c0328c2057e8826a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/7475358d9e96425d5900009124271aa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/d898b88d583673a50280386365b8083.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="174">
-                <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+              <first_editor relative-caret-position="336">
+                <caret line="34" column="106" selection-start-line="34" selection-start-column="106" selection-end-line="34" selection-end-column="106" />
               </first_editor>
               <second_editor />
             </state>
@@ -177,11 +184,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/d898b88d583673a50280386365b8083.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/7475358d9e96425d5900009124271aa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/22c5fc7949726b5cb2cd196e6a6884f.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/27cfc33d68e417f54406839be0b2631.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/030a3982d446a76518c181971820914.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/4fffdca44807702c0328c2057e8826a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="174">
-            <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+          <first_editor relative-caret-position="336">
+            <caret line="34" column="106" selection-start-line="34" selection-start-column="106" selection-end-line="34" selection-end-column="106" />
           </first_editor>
           <second_editor />
         </state>
