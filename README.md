@@ -1,4 +1,6 @@
 **图像风格融合与快速迁移**<br>
+**项目演示**
+ ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/display.gif)<br>
 训练过程：
     1156轮<br>
  ![image](https://github.com/mr-zhouzhouzhou/styletransfer/blob/master/img/1156.jpg)<br>
